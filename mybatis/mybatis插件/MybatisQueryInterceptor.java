@@ -1,4 +1,4 @@
-package com.pbs.suite.senior.interceptor;
+package com.sys.nuoqin.senior.interceptor;
 
 import com.pbs.suite.senior.thread.SeniorThreadLocal;
 import lombok.extern.slf4j.Slf4j;
